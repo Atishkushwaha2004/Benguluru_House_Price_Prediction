@@ -35,9 +35,10 @@ A Machine Learning web app that predicts house prices in Bangalore based on user
 ---
 
 ## 📂 Project Structure
-├── app.py
-├── model.pkl
-├── columns.json
-├── requirements.txt
-├── assets/
+├── app.py                             
+├── model.pkl                         
+├── columns.json                             
+├── requirements.txt                   
+├── assets                                
 │ └── app_screenshot.png
+ 
