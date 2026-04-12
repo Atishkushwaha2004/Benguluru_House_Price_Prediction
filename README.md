@@ -9,7 +9,7 @@ A Machine Learning web app that predicts house prices in Bangalore based on user
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Use the App](https://your-app-link-here.com)
+👉 [Click Here to Use the App](https://benguluruhousepriceprediction-ig5fjpfbhnwtzxhlsbivbv.streamlit.app/)
 
 ---
 
